@@ -1,0 +1,20 @@
+.additem {
+    font-size: 20px;
+    font-style: initial;
+}
+
+.author {
+    font-style: italic;
+}
+
+.additem > span {
+    padding-left: 10px;
+}
+
+.shortdescription {
+    font-style: italic;
+}
+
+.carbrand {
+    font-style: inherit;
+}
